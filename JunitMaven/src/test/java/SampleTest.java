@@ -10,7 +10,7 @@ public class SampleTest {
 	int a = 2;
 	int b = 3;
 	int c = a+b;
-	System.out.println("ResultPassCase :"+c);
+	System.out.println("ResultPassCase : "+c);
     assertTrue(a+b == 5);
 	
 	}
