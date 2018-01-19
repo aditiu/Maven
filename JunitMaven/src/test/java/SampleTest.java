@@ -15,7 +15,7 @@ public class SampleTest {
 	
 	}
 
-	@Test
+	/*@Test
 	public void simpleTestFail(){
 		
 		int a = 2;
@@ -25,5 +25,5 @@ public class SampleTest {
 	    assertTrue(a+b == 4);
 		
 	
-	}
+	}*/
 }
